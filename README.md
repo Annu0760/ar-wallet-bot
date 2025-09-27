@@ -17,7 +17,7 @@ Professional Telegram Bot for Microworkers Task Earnings
 5. Withdraw when balance reaches ₹100
 
 ## Support
-Contact: @Annu0760
+Contact: @t.me/Ramzanali56
 
 ## Earnings Model
 - User gets 90% of task value
